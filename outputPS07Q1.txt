@@ -1,0 +1,19 @@
+Successfully inserted 10 applications into the system
+Updated details of ccc. Phone Status has been changed.
+Updated details of jjj. Status has been changed.
+Updated details of iii. Status has been changed.
+Updated details of aaa. Status has been changed.
+Updated details of bbb. Phone Status has been changed.
+---------- Applicants for Computer Science ----------
+ccc / 9244231359 / India / Computer Science / Rejected
+jjj / 9982154793 / India / Computer Science / Rejected
+hhh / 9982154791 / India / Computer Science / Rejected
+fff / 9982154789 / Pakistan / Computer Science / Applied
+aaa / 9977112388 / India / Computer Science / Rejected
+ggg / 9982154790 / China / Computer Science / Approved
+iii / 9982154792 / Sri lanka / Computer Science / Approved
+eee / 9982154788 / Bhutan / Computer Science / Approved
+---------- Application Status ----------
+Applied: 2
+Rejected: 4
+Approved: 4

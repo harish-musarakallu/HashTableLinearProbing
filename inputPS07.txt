@@ -1,0 +1,10 @@
+aaa / 9977112388 / India / Computer Science / Applied
+bbb / 9953152234 / Nepal / Electronics / Applied
+ccc / 9244231355 / India / Computer Science / Applied
+ddd / 9287516571 / Bangladesh / Biotechnology / Applied
+eee / 9982154788 / Bhutan / Computer Science / Approved
+fff / 9982154789 / Pakistan / Computer Science / Applied
+ggg / 9982154790 / China / Computer Science / Approved
+hhh / 9982154791 / India / Computer Science / Rejected
+iii / 9982154792 / Sri lanka / Computer Science / Applied
+jjj / 9982154793 / India / Computer Science / Applied
